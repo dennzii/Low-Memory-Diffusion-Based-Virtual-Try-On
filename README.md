@@ -1,3 +1,8 @@
+<img width="1280" height="822" alt="1782746555794" src="https://github.com/user-attachments/assets/b009133f-ff6f-48a3-a33a-65c82488e1e2" />
+
+Thesis Link:
+https://drive.google.com/file/d/1_3XgV4Ye_zzU1elsZ64TAD_YOBfNcFFh/view?usp=drive_link
+
 [Completed]
 CatVTON-like low-vram constrained VTON model.
 
